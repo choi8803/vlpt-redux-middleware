@@ -1,0 +1,3 @@
+#프로젝트 정보
+1. 설치 : redux, react-redux
+2. 패턴 : ducks 
